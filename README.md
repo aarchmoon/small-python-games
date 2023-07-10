@@ -1,2 +1,2 @@
-# casino-python
- Various Python casino games.
+# small-python-games
+ Various small games made with Python.
